@@ -1,5 +1,6 @@
 This is a tweak of a screen saver written by Mathew (lpar, info below). It streams green A's, T's, C's, and G's (DNA nucleotides) down a screen.
 
+To install, open the XCode project and push build in the top left. Then double click on the RedPill.saver file in the RedPill/Build/Products/Debug folder. OSX should then prompt you to install.
 
 This is Red Pill, a 3D OpenGL "Matrix" screensaver for Mac OS X.
 Copyright © 2002-2012 mathew <meta@pobox.com>.
